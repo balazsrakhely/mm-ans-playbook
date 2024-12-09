@@ -1,2 +1,3 @@
-- name: menandmice
-  src: https://github.com/menandmice/ansible_micetro
+- name: https://github.com/menandmice/ansible_micetro.git
+  type: git
+  version: main
