@@ -1,0 +1,9 @@
+---
+roles:
+  - name: myrole
+    src: https://github.com/balazsrakhely/mm-ans
+
+collections:
+- name: https://github.com/menandmice/ansible_micetro.git
+  type: git
+  version: main

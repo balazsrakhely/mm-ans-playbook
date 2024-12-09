@@ -1,3 +1,0 @@
-- name: https://github.com/menandmice/ansible_micetro.git
-  type: git
-  version: main
